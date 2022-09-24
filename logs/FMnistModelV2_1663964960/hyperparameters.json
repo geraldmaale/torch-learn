@@ -1,0 +1,12 @@
+{
+    "epochs": 20,
+    "model": "FMnistModelV2",
+    "loss_fn": "CrossEntropyLoss",
+    "optimizer": "SGD",
+    "train_time": 244.72943697199662,
+    "train_loss": 0.1441420149554809,
+    "train_accuracy": 0.9481833333333334,
+    "test_loss": 0.2645151372641896,
+    "test_accuracy": 0.9114416932907349,
+    "torch_version": "1.12.1+cu116"
+}
